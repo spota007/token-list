@@ -182798,6 +182798,21 @@
     },
     {
       "chainId": 101,
+      "address": "DjyUAyEgrL5f3XpQ8nEVPrPGvwwXdy8rkym3wRbFrYEW",
+      "symbol": "SPOTA",
+      "name": "Spota Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DjyUAyEgrL5f3XpQ8nEVPrPGvwwXdy8rkym3wRbFrYEW/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://x.com/spotaverse",
+        "website": "https://spostar.io/"
+      }
+    },
+    {
+      "chainId": 101,
       "address": "Cw2yB2XvmmLpPz6EjxUns3F2yeuB6XCHfKa5qEfp7ddT",
       "symbol": "NDWL2",
       "name": "Nezumi Dominion WL2 Token",
