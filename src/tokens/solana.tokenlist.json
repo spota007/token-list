@@ -184615,6 +184615,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DjyUAyEgrL5f3XpQ8nEVPrPGvwwXdy8rkym3wRbFrYEW",
+      "symbol": "SPOTA",
+      "name": "Spota Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DjyUAyEgrL5f3XpQ8nEVPrPGvwwXdy8rkym3wRbFrYEW/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
